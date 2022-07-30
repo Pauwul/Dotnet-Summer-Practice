@@ -1,0 +1,15 @@
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/bin/Debug/net6.0/Tema1
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/bin/Debug/net6.0/Tema1.deps.json
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/bin/Debug/net6.0/Tema1.runtimeconfig.json
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/bin/Debug/net6.0/Tema1.dll
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/bin/Debug/net6.0/Tema1.pdb
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.csproj.AssemblyReference.cache
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.AssemblyInfoInputs.cache
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.AssemblyInfo.cs
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.csproj.CoreCompileInputs.cache
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.dll
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/refint/Tema1.dll
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.pdb
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/Tema1.genruntimeconfig.cache
+/Users/paul/Coding_Projects/Dotnet-Summer-Practice/Tema1/obj/Debug/net6.0/ref/Tema1.dll
